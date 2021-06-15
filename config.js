@@ -10,8 +10,8 @@ module.exports = {
 		domain: 'mencomencoba-ni.glitch.me',
 		port: 8080,
 		captcha: {
-			sitekey: 'SITE_KEY',
-			secretkey: 'SECRET_KEY'
+			sitekey: 'f7332142-edfe-428f-880f-722ba5ae526d',
+			secretkey: '6LdomzQbAAAAAHDO9fx9ouDXu_FVHJIVgowtoi-S'
 		}
 	}
 };
