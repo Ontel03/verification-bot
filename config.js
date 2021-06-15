@@ -7,7 +7,7 @@ module.exports = {
 	},
 	website: {
 		protocol: 'https://',
-		domain: 'domain.name',
+		domain: 'shorthaired-hollow-muskmelon.glitch.me',
 		port: 8080,
 		captcha: {
 			sitekey: 'SITE_KEY',

@@ -35,7 +35,7 @@ client.on('ready', () => {
 		} channels & ${client.users.cache.size} users`
 	);
 	console.log('-------------------------------------');
-	client.user.setActivity('Verification bot by legendjs :D', {
+	client.user.setActivity('Verification bot :D', {
 		type: 'WATCHING'
 	});
 });
