@@ -1,17 +1,17 @@
 module.exports = {
 	bot: {
-		token: 'ODUzNjU3OTI1NDQ3NzEyNzg4.YMYk5Q.UQJvKGo9b_hk7jacZO9L8J2pVaU',
+		token: '',
 		prefix: '!',
-		clientSecret: 't35yZ9VVumE_fNFJZapsBhAvE-FdB6yc',
-		clientID: '853657925447712788'
+		clientSecret: 'clientsecret',
+		clientID: 'clientID'
 	},
 	website: {
 		protocol: 'https://',
-		domain: 'mencomencoba-ni.glitch.me',
+		domain: 'domain.name',
 		port: 8080,
 		captcha: {
-			sitekey: 'f7332142-edfe-428f-880f-722ba5ae526d',
-			secretkey: '0x44992beAb9Ea4D5a28F9313339CD9Fe25fF61e93'
+			sitekey: 'sitekey',
+			secretkey: 'secretkey'
 		}
 	}
 };
