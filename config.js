@@ -11,7 +11,7 @@ module.exports = {
 		port: 8080,
 		captcha: {
 			sitekey: 'f7332142-edfe-428f-880f-722ba5ae526d',
-			secretkey: '6LdomzQbAAAAAHDO9fx9ouDXu_FVHJIVgowtoi-S'
+			secretkey: '0x44992beAb9Ea4D5a28F9313339CD9Fe25fF61e93'
 		}
 	}
 };
