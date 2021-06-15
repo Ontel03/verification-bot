@@ -5,9 +5,9 @@
   "name": "Developer-Bot",
   "version": "0.0.1",
   "description": "A Advanced Music Bot With Filters & Other Cool Stuff 😉",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "author": "𝙁𝘾 么 Glitch Editz#5631",
   "dependencies": {
